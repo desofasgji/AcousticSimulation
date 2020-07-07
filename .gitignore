@@ -1,0 +1,9 @@
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+build
+Library
+Logs
+Packages
+Temp
+resonanceaudio.sln
+.vscode
